@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@theme {
+  --font-heebo: "Heebo", sans-serif;
+  --font-nunito: "Nunito", sans-serif;
+  --font-arimo: "Arimo", sans-serif;
+  --font-raleway: "Raleway", sans-serif;
+  --font-pacifico: "Pacifico", "cursive";
+}
